@@ -2,15 +2,22 @@
 Here all the Programs in Data science with python has been coded
 
 Lab:
+
 Experiment 1:
+
 a) Python Basics: Your first program, Types Expressions and Variables String Operations 
+
 b) Python Data Structures: Lists and Tuples Sets,and Dictionaries
-c) Python Programming Fundamentals: Conditions and Branching Loops, Functions, 
-Objects and Classes 
-d) Working with Data in Python: Reading files with open, Writing files with open, 
-Loading data with Pandas, Working with and Saving data with Pandas 
+
+c) Python Programming Fundamentals: Conditions and Branching Loops, Functions,Objects and Classes 
+
+d) Working with Data in Python: Reading files with open, Writing files with open,Loading data with Pandas, Working with and Saving data with Pandas 
+
 e) Working with Numpy Arrays: Numpy 1d Arrays, Numpy 2d Arrays
+
+
 Experimen 2: 
+
 a) Importing Datasets: Learning Objectives, Understanding the Domain, Understanding 
 the Dataset, Python package for data science, Importing and Exporting Data in Python, Basic 
 Insights from Datasets 
